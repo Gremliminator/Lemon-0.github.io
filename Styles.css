@@ -1,0 +1,73 @@
+  body {
+    background-color: #DFE612;
+}
+.title {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+     font-style: normal;
+     font-size:  300%;
+    color: #000;
+}
+
+p {
+    color: #000;
+    font-family: "Bebas Neue", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+}
+li {
+  display: inline;
+}
+h1{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+header{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #000;
+    text-align: center;
+    background-image: url(../Images/lemons.webp);
+}
+.members{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.nav{
+
+}
+
+nav{
+    text-decoration: none;
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #000;
+    background-color:#87E612;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+    text-align: center
+}
+
+
+
+footer{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #000;
+    text-align: center;
+    background-image: url(../Images/lemons.webp);
+}
